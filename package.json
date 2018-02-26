@@ -1,6 +1,6 @@
 {
   "name": "simopen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Opens given URL on iOS simulator",
   "bin": {
     "simopen": "./cli.js"
@@ -9,7 +9,13 @@
     "type": "git",
     "url": "git+https://github.com/caiogondim/simopen.git"
   },
-  "keywords": ["ios", "simulator", "iphone", "url", "safari"],
+  "keywords": [
+    "ios",
+    "simulator",
+    "iphone",
+    "url",
+    "safari"
+  ],
   "author": "Caio Gondim <me@caiogondim.com>",
   "license": "MIT",
   "bugs": {
