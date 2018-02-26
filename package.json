@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Opens given URL on iOS simulator",
   "bin": {
-    "simopen": "node ./cli.js"
+    "simopen": "./cli.js"
   },
   "repository": {
     "type": "git",
