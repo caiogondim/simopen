@@ -10,6 +10,10 @@ Make sure the iOS Simulator is already open, then run:
 npx simopen https://nytimes.com
 ```
 
+## Preview
+
+<img src="http://rawgit.com/caiogondim/simopen/master/preview.gif">
+
 ---
 
 [caiogondim.com](https://caiogondim.com) &nbsp;&middot;&nbsp;
