@@ -1,6 +1,6 @@
 {
   "name": "simopen",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Opens given URL on iOS simulator",
   "bin": {
     "simopen": "./cli.js"
