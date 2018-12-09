@@ -12,7 +12,7 @@ npx simopen https://nytimes.com
 
 ## Preview
 
-<img src="http://rawgit.com/caiogondim/simopen/master/preview.gif">
+<img src="https://cdn.jsdelivr.net/gh/caiogondim/simopen@master/preview.gif">
 
 ---
 
